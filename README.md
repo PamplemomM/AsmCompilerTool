@@ -1,7 +1,7 @@
 # **Robot Factory**
 
 ## **Description**
-Robot Factory is a Asambler compiler.
+Robot Factory is a Assembler compiler.
 It enables you to transform a .s (Assembly) into a .cor (Machine code).
 
 ## **Usage**
